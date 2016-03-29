@@ -6,7 +6,7 @@
 
 
 Bangoes -  One Page Flat Portfolio Template
-Bangoes is a unique, modern and functional single page html template. It�s a perfect for any creative studio, 
+Bangoes is a unique, modern and Creative single page html template. It's a perfect for any creative studio, 
 corporate websites, photography or for portfolio. In this modern html template we use lot's of latest HTML5 
 and CSS3 effects which make this template very smooth and cool. 
 ---
