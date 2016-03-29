@@ -17,7 +17,7 @@ and CSS3 effects which make this template very smooth and cool.
 
 
 ####Credits
-* Psd Created by: Juskteez V
+* Psd Created by: Juskteez Vu
 * Bootstrap
 * jQuery
 * Owl Carousel
