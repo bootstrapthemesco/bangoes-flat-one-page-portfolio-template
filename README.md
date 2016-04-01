@@ -2,7 +2,7 @@
 
 
 
-####http://bootstrapthemes.co/item/bangoes-one-page-flat-portfolio-template/
+####http://bootstrapthemes.co/item/bangoes-one-page-flat-html-portfolio-template/
 
 
 Bangoes -  One Page Flat Portfolio Template
